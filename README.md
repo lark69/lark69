@@ -16,7 +16,7 @@ gabriel@github:~$ status
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-carmo-72871940a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-090d16?style=flat-square&logo=googlechrome&logoColor=38bdf8)](https://github.com/lark69/Gabriel-Portela-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-090d16?style=flat-square&logo=googlechrome&logoColor=38bdf8)](https://lark69.github.io/Gabriel-Portela-Portfolio/)
 [![Instagram](https://img.shields.io/badge/@portela.pze-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/portela.pze)
 [![Email](https://img.shields.io/badge/Email-090d16?style=flat-square&logo=icloud&logoColor=white)](mailto:portalag2783@icloud.com)
 
