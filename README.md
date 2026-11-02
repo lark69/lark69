@@ -29,7 +29,7 @@ gabriel@github:~$ status
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/lark69/portex-saas">🚀 Portex SaaS</a> <code>Private / Production</code></h4>
+      <h4>🚀 Portex SaaS <code>Private / Production</code></h4>
       <p>Cloud-based subscription and licensing layer for Point of Sale (POS) networks. Designed for multi-tenancy, billing automation, and centralized business management.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -39,7 +39,7 @@ gabriel@github:~$ status
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/lark69/sistema-tickets-gpc">⚡ Portex PDV (Desktop POS Engine)</a> <code>Private / Production</code></h4>
+      <h4>⚡ Portex PDV (Desktop POS Engine) <code>Private / Production</code></h4>
       <p>High-performance, offline-first desktop Point of Sale system. Built with Rust and Tauri for near-zero memory footprint, instant startup, and hardware receipt printing.</p>
       <p>
         <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
@@ -99,7 +99,7 @@ gabriel@github:~$ cat /etc/skills.conf
   [![Linux](https://img.shields.io/badge/Linux-090d16?style=flat-square&logo=linux&logoColor=FCC624)](https://www.linux.org/)
   [![Git](https://img.shields.io/badge/Git-090d16?style=flat-square&logo=git&logoColor=F05032)](https://git-scm.com/)
   [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-090d16?style=flat-square&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
-  [![REST APIs](https://img.shields.io/badge/REST%20APIs-090d16?style=flat-square&logo=fastapi&logoColor=009688)](https://restfulapi.net/)
+  [![REST APIs](https://img.shields.io/badge/REST%20APIs-090d16?style=flat-square&logo=postman&logoColor=FF6C37)](https://restfulapi.net/)
 
 ---
 
